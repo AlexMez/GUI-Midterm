@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\bin\Debug\TryMidTermGUI.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\bin\Debug\TryMidTermGUI.exe
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\bin\Debug\TryMidTermGUI.pdb
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.exe
+c:\users\alex\documents\visual studio 2015\Projects\TryMidTermGUI\TryMidTermGUI\obj\Debug\TryMidTermGUI.pdb
